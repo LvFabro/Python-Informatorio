@@ -1,1 +1,0 @@
-# Este será nuestro repositorio de apuntes sobre Python para la Etapa 2 del Info :D
